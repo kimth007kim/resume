@@ -51,7 +51,7 @@ Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브�
 ![인증완료](https://user-images.githubusercontent.com/48907339/101289310-01d89b80-383f-11eb-8f75-2d33abf3229d.png)
 
 
-졸업 작품이자 캡스톤 경진대회 참가작품인 블록체인을 이용한 학생증 서비스 입니다.
+졸업 작품이자 캡스톤 경진대회 참가작품인 블록체인을 이용한 학생증 서비스 입니다. 캡스톤 경진대회에서 우수 상을 수상했습니다.
 
 [프로젝트 깃허브](https://github.com/jeonjonghyeok/bcw)
 
@@ -59,5 +59,6 @@ Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브�
 
 - React-native(EXPO)를 이용해서 크로스 플랫폼 어플리케이션을 구성
 
-- Hyperledger-indy를 이용해서 DID 네트워크를 구축
+- React Native Pin View를 이용해 핀번호 화면을 구성
 
+- React-native-qrcode-svg를 이용해서 큐알코드를 생성
