@@ -2,9 +2,6 @@
 
 
 ## 소개
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width="217" alt="증명사진" src="https://user-images.githubusercontent.com/48907339/101289048-48c59180-383d-11eb-8dbb-4e93dd4e09f8.png">
 
