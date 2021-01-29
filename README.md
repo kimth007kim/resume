@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimth007kim)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimth007kim)](https://github.com/anuraghazra/github-readme-stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimth007kim&hide=css,pug,html)](https://github.com/anuraghazra/github-readme-stat
 
 
 ## 소개
