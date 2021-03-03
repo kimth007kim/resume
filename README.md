@@ -18,7 +18,7 @@
 항상 더 나은 개발자가 되기위해 1일 1커밋운동을 하고있고, 새로운 기술들을 스폰지 같이 흡수하는 개발자가 되고싶습니다.
 
 
-## 사용언어 및 
+## 사용언어 및 기술들
 
 ![html_original_wordmark_logo_icon_146478](https://user-images.githubusercontent.com/48907339/101289059-67c42380-383d-11eb-9ce0-54f54bb008b7.png)![css_original_wordmark_logo_icon_146576](https://user-images.githubusercontent.com/48907339/101289060-685cba00-383d-11eb-8a8e-228fee45d652.png)![file_type_js_official_icon_130509](https://user-images.githubusercontent.com/48907339/101289062-6bf04100-383d-11eb-899c-4b88c87e6fec.png)![file_type_pug_icon_130225](https://user-images.githubusercontent.com/48907339/101289071-77dc0300-383d-11eb-9f0c-38bebe346670.png)![python_18894](https://user-images.githubusercontent.com/48907339/101289074-81fe0180-383d-11eb-976d-f2c2b1a01fad.png)![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/48907339/101289075-84605b80-383d-11eb-9ccc-fd1047b56f2b.png)
 ![react_original_wordmark_logo_icon_146375](https://user-images.githubusercontent.com/48907339/101289085-a1952a00-383d-11eb-9d52-78e2a238887d.png)![NicePng_react-logo-png_2224770 (1)](https://user-images.githubusercontent.com/48907339/101289079-8f1af080-383d-11eb-98cc-df79ff5d3bd2.png)
