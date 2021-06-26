@@ -39,9 +39,9 @@ Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브�
 
 #### 개발
 
-- express template engine인 pug를 이용해서 프론트엔드 작업
+- express template engine인 pug를 이용해서 프론트엔드 개발
 
-- node.js와 express를 이용해서 백엔드 작업
+- node.js와 express를 이용해서 백엔드 개발
 
 - DB는 Mysql을 사용
 
@@ -60,8 +60,8 @@ Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브�
 
 #### 개발
 
-- React-native(EXPO)를 이용해서 크로스 플랫폼 어플리케이션을 구성
+- React-native(EXPO)를 이용해서 크로스 플랫폼 어플리케이션을 개발
 
-- React Native Pin View를 이용해 핀번호 화면을 구성
+- React Native Pin View를 이용해 핀번호 화면을 개발
 
 - React-native-qrcode-svg를 이용해서 큐알코드를 생성
