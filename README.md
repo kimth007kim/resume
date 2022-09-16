@@ -59,8 +59,7 @@ Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브�
 [프로젝트 깃허브](https://github.com/jeonjonghyeok/bcw)
 
 #### 개발
-
-
+<a href="https://www.flaticon.com/kr/free-icons/" title="자바 아이콘">자바 아이콘  제작자: Freepik - Flaticon</a>
 - 이메일 회원 가입
     - 이메일 인증 코드 발송
     - 이메일 인증 코드 유효성 검사
