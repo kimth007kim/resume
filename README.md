@@ -20,46 +20,31 @@
 
 ## 사용언어 및 기술들
 
-![html_original_wordmark_logo_icon_146478](https://user-images.githubusercontent.com/48907339/101289059-67c42380-383d-11eb-9ce0-54f54bb008b7.png)![css_original_wordmark_logo_icon_146576](https://user-images.githubusercontent.com/48907339/101289060-685cba00-383d-11eb-8a8e-228fee45d652.png)![file_type_js_official_icon_130509](https://user-images.githubusercontent.com/48907339/101289062-6bf04100-383d-11eb-899c-4b88c87e6fec.png)![file_type_pug_icon_130225](https://user-images.githubusercontent.com/48907339/101289071-77dc0300-383d-11eb-9f0c-38bebe346670.png)![python_18894](https://user-images.githubusercontent.com/48907339/101289074-81fe0180-383d-11eb-976d-f2c2b1a01fad.png)![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/48907339/101289075-84605b80-383d-11eb-9ccc-fd1047b56f2b.png)
-![react_original_wordmark_logo_icon_146375](https://user-images.githubusercontent.com/48907339/101289085-a1952a00-383d-11eb-9d52-78e2a238887d.png)![NicePng_react-logo-png_2224770 (1)](https://user-images.githubusercontent.com/48907339/101289079-8f1af080-383d-11eb-98cc-df79ff5d3bd2.png)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Spring Security](https://img.shields.io/badge/spring--security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-green?style=for-the-badge&logo=)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ## 프로젝트
 
-### Mini-Project
-
-### `에브리타임 클론코딩`
-
-
-![에타메인](https://user-images.githubusercontent.com/48907339/101289117-d43f2280-383d-11eb-8857-89062e08ce32.PNG)
-
-Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브리타임 홈페이지를 1인 미니프로젝트를 진행하기로 했습니다.
-
-[프로젝트 깃허브](https://github.com/kimth007kim/everyTime_clone_nodejs)
-
-#### 개발
-
-- express template engine인 pug를 이용해서 프론트엔드 작업
-
-- node.js와 express를 이용해서 백엔드 작업
-
-- DB는 Mysql을 사용
-
-
-
 ### Team-Project
 
-### `블록체인 학생증 서비스 `
+### `CrewCrew (취미 및 스터디 매칭) `
 
-![인증완료](https://user-images.githubusercontent.com/48907339/101289310-01d89b80-383f-11eb-8f75-2d33abf3229d.png)
+![sacsca](https://user-images.githubusercontent.com/48907339/190577512-9d7a278e-62e2-41fa-8950-08726d41b9bc.jpg)
 
+백엔드 개발자 3명 , 프론트 엔드 개발자 1명, 웹퍼블리셔 1명, 웹 디자이너 1명으로 구성된 프로젝트로,
+제가 사이드 프로젝트를 하고싶을때 각각 다른역할의 팀원을 구하기 힘들어서 팀원을 찾기 쉬운 서비스를 만들면 어떨까 해서 개발해보게 되었습니다.
 
-졸업 작품이자 캡스톤 경진대회 참가작품인 블록체인을 이용한 학생증 서비스 입니다. 캡스톤 경진대회에서 우수 상을 수상했습니다.
-
-[프로젝트 깃허브](https://github.com/jeonjonghyeok/bcw)
+[프로젝트 깃허브](https://github.com/kimth007kim/crewcrew)
 
 #### 개발
-<a href="https://www.flaticon.com/kr/free-icons/" title="자바 아이콘">자바 아이콘  제작자: Freepik - Flaticon</a>
+
 - 이메일 회원 가입
     - 이메일 인증 코드 발송
     - 이메일 인증 코드 유효성 검사
@@ -97,25 +82,21 @@ Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브�
 
 
 
+### Mini-Project
+
+### `에브리타임 클론코딩`
 
 
+![에타메인](https://user-images.githubusercontent.com/48907339/101289117-d43f2280-383d-11eb-8857-89062e08ce32.PNG)
 
+Node.js 프로그래밍 3판 -윤인성 저자님의 책을 학습하고 에브리타임 홈페이지를 1인 미니프로젝트를 진행하기로 했습니다.
 
+[프로젝트 깃허브](https://github.com/kimth007kim/everyTime_clone_nodejs)
 
+#### 개발
 
+- express template engine인 pug를 이용해서 프론트엔드 작업
 
+- node.js와 express를 이용해서 백엔드 작업
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- DB는 Mysql을 사용
