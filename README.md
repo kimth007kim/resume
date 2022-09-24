@@ -34,7 +34,7 @@
 
 ### Team-Project
 
-### `CrewCrew (취미 및 스터디 매칭) `
+### `CrewCrew (취미 및 스터디 매칭) ` 202201~202207
 
 ![sacsca](https://user-images.githubusercontent.com/48907339/190577512-9d7a278e-62e2-41fa-8950-08726d41b9bc.jpg)
 
@@ -85,7 +85,6 @@
 ### Mini-Project
 
 ### `에브리타임 클론코딩`
-
 
 ![에타메인](https://user-images.githubusercontent.com/48907339/101289117-d43f2280-383d-11eb-8857-89062e08ce32.PNG)
 
